@@ -1,6 +1,9 @@
 Detect NSFW images client side with the use of TensorFlow:  https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1
 
-
 Disalow large imports: https://addyosmani.com/blog/disallow-imports/
 
 Formating for forms and input fields: https://nosir.github.io/cleave.js/
+
+Trusted Types help prevent Cross-Site Scripting: https://developers.google.com/web/updates/2019/02/trusted-types
+
+An interesting scrapper: https://github.com/postlight/mercury-parser
